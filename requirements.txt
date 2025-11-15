@@ -1,0 +1,8 @@
+langchain-ollama
+chromadb
+duckduckgo-search
+pymupdf
+openai-whisper
+pytesseract
+pillow
+pyngrok
